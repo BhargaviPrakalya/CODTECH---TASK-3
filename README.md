@@ -1,8 +1,13 @@
 Name: R. BHARGAVI PRAKALYA
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT6WDS1028
+
 Domain: Data Analytics
+
 Duration: July to August 2024
+
 Mentor: Muzammil AHMED
 
 
@@ -124,4 +129,5 @@ Results:
 The results will provide insights into different customer segments, which can be used for targeted marketing and personalized customer experiences. The segment analysis will include average age, annual income, spending score, and the number of customers in each cluster.
 
 Output
+
 ![WhatsApp Image 2024-07-08 at 16 26 20_2cc61e2d](https://github.com/BhargaviPrakalya/CODTECH---TASK-3/assets/175129608/5c861f3f-7f54-4aa8-8e31-862187f6d808)
